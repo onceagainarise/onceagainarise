@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shubham
+- 👋 Hi everyone
 - 👀 I’m interested in AI and Astornomy
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects related to machine learning and space tech
