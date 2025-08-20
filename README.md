@@ -75,11 +75,22 @@
 
 ## 🌐 Connect With Me  
 <p>
-  <a href="https://www.youtube.com/@euna_ai"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/project_euna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/shubham-3793a9257/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-  <a href="mailto:ariseonceagan@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
-  <a href="https://github.com/onceagainarise"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+<a href="https://www.youtube.com/@euna_ai">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="40" height="40" style="fill:#FF0000;"/>
+</a>
+<a href="https://www.instagram.com/project_euna/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" style="fill:#E4405F;"/>
+</a>
+<a href="https://www.linkedin.com/in/shubham-3793a9257/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="fill:#0A66C2;"/>
+</a>
+<a href="mailto:ariseonceagan@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="fill:#D14836;"/>
+</a>
+<a href="https://github.com/onceagainarise">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
