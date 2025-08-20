@@ -34,8 +34,7 @@
 ### ⚡ Tools & Platforms  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/47601366?s=200&v=4" width="40" height="40"/> <!-- Pinecone -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><!-- Pinecone -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/> <!-- HuggingFace -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> <!-- GCP/Colab vibe -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
