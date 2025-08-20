@@ -76,20 +76,21 @@
 ## 🌐 Connect With Me  
 <p>
 <a href="https://www.youtube.com/@euna_ai">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="40" height="40" style="fill:#FF0000;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="40" height="40"/>
 </a>
 <a href="https://www.instagram.com/project_euna/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" style="fill:#E4405F;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/shubham-3793a9257/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="fill:#0A66C2;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"/>
 </a>
 <a href="mailto:ariseonceagan@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="fill:#D14836;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40"/>
 </a>
 <a href="https://github.com/onceagainarise">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </a>
+
 
 </p>
 
