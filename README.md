@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham  
 
-🚀 AI & Machine Learning enthusiast | Builder of Agentic AI Systems | Problem Solver  
+🚀 A Machine Learning Researcher  
 
 ---
 
