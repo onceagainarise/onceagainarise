@@ -56,13 +56,12 @@
 <a href="https://github.com/onceagainarise">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </a>
-
-
 </p>
 
 ---
 
+📄 [View My Resume](https://drive.google.com/file/d/1g36D2ekkTtM3oDLC2F4sQNWFCL1uf6RQ/view?usp=sharing)  
 
 ⭐️ _“Always building. Always evolving.”_  
-      ON MY WAY TO MAKE THE SELF EVOLVING AI ASSISTANT E.U.N.A
-Check out the youtube for more info - repo would be updated soon.....
+      ON MY WAY TO MAKE THE SELF EVOLVING AI ASSISTANT E.U.N.A  
+Check out the youtube for more info - repo would be updated soon.....  
