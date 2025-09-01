@@ -10,8 +10,6 @@
 - 💡 Strong background in **Machine Learning, NLP, and Computer Vision**  
 - 🌱 Currently exploring **LangChain, LangGraph, and MCP** for building advanced AI agents  
 
----
-
 ## 🛠 Tech Stack  
 
 <p>
@@ -63,6 +61,7 @@
 </p>
 
 ---
+
 
 ⭐️ _“Always building. Always evolving.”_  
       ON MY WAY TO MAKE THE SELF EVOLVING AI ASSISTANT E.U.N.A
