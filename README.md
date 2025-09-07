@@ -32,8 +32,7 @@
 ---
 
 ## 🏆 Achievements  
-- 🥇 Winner – **Hult Prize (MSIT)**  
-- 🥈 Runner-up – **Woodpecker’s Hackathon**  
+- 🥇 Winner – **Hult Prize (MSIT)**   
 - 🎯 Finalist – **Ideate (BVP)**  
 - 🥈 Runner-up – **Ideathon CIENA (MSIT)**  
 
