@@ -4,7 +4,7 @@
 
 ---
 
-## 🔥 About Me  
+## About Me  
 - 🎓 Pursuing **B.Tech in Computer Science (AI & ML Minor)** at Maharaja Surajmal Institute of Technology (Graduating 2026)  
 - 🧠 Passionate about **Agentic AI, LLMs, RAG pipelines, and Deep Learning**  
 - 💡 Strong background in **Machine Learning, NLP, and Computer Vision**  
@@ -14,7 +14,6 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
